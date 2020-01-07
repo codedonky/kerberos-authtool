@@ -9,7 +9,7 @@ import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.security.UserGroupInformation;
 
 
-class HiveBeelineTest  {
+class App  {
 
   public static void main(String args[]) throws ClassNotFoundException, SQLException {
 
